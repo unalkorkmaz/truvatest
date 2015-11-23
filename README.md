@@ -1,2 +1,4 @@
 # truvatest
-Test puposes rep for Truva project
+Test purposes rep for Truva project
+Truva will be transferred to TruvaStudio after test period.
+
